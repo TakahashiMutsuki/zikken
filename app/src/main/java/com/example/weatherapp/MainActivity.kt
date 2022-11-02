@@ -102,7 +102,7 @@ class MainActivity : AppCompatActivity() {
             //HTTP接続の結果、取得したJSON文字列httpResultを戻り値とする
             return@withContext httpResult
         }
-
+//aaaaaaaaaaaaa
         return response
     }
 
